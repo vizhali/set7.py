@@ -1,2 +1,2 @@
-vizh=list(map(int,input().split()))
-print(min(vizh))
+vizh7=list(map(int,input().split()))
+print(min(vizh7))
